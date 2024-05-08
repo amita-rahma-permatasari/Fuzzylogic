@@ -1,6 +1,7 @@
 import streamlit as st
 import numpy as np
-
+import streamlit.components.v1 as stc
+from PIL import Image 
 
 
 # Tampilkan gambar dengan lebar penuh dan tinggi 200px
