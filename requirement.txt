@@ -3,5 +3,5 @@ streamlit
 seaborn
 matplotlib
 pandas
-scikiy-learn
+scikit-learn
 scikit-fuzzy
