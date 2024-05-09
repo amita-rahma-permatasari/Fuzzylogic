@@ -4,3 +4,4 @@ seaborn
 matplotlib
 pandas
 scikiy-learn
+scikit-fuzzy
